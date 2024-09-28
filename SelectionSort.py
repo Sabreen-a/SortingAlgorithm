@@ -20,3 +20,11 @@ def SelectionSort(arr):
     
     arr=[10, 2, 3, 4, 5]
     print(SelectionSort(arr))
+
+    """ 
+    #algorithm
+    1-we select smallest element in the array and based on it we will select index of smallest
+    2-we will looping on our array to find and return smalllext elemnt 
+    3-then we Create New Array and push smallest elemnt y=that we got from previous step
+    
+    """
